@@ -1,0 +1,64 @@
+style.css
+td {
+  text-align: center;
+  background-color: lightblue;
+}
+
+
+body {background-image: url(foto1.jpeg);}
+
+th{background-color: white;}
+
+
+h1 {
+  cursor: pointer;
+  transition: 0.2s;
+  margin-bottom: 50px;
+  color: black;
+}
+
+h1:hover {
+  letter-spacing: 1px;
+}
+
+
+h2 {
+  cursor: pointer;
+  transition: 0.2s;
+  margin-bottom: 50px;
+  color: black;
+}
+
+h2:hover {
+  letter-spacing: 1px;
+}
+
+td {
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+td:hover {
+    background-color: grey;
+    cursor: pointer;
+    transform:scale(1);
+
+}
+
+th:hover {
+    transform: scale(1.05);
+}
+
+button {
+  border: none;
+  border-radius: 5px;
+  background-color: darkgrey;
+  color: black;
+  padding: 10px;
+  margin: 2px;
+}
+
+button:hover {
+  background-color: dimgrey;
+  cursor: pointer;
+}
