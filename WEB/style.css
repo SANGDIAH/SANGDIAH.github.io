@@ -1,0 +1,47 @@
+.navbar {
+	background-color: deepskyblue;
+}
+
+.jumbotron {
+	background-color: #e2effe;
+	padding-top: 5rem;
+
+}
+
+.kartu {
+	background-color: deepskyblue;
+}
+
+#experience {
+	background-color: #e2effe;
+	text-align: center;
+}
+
+.ibnu {
+	background-color: white;
+	font-family: cursive;
+	color: black;
+}
+
+footer {
+	background-color: deepskyblue;
+	color: white;
+}
+
+footer a {
+	text-decoration: none;
+	color: white;
+}
+
+footer i {
+	color: salmon;
+}
+
+section {
+	padding-top: 80px;
+}
+
+.img-thumbnail {
+	background-color: deepskyblue;
+	box-shadow: 0 0 10px 10px skyblue;
+}
